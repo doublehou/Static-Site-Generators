@@ -14,7 +14,10 @@ Table of Contents
 * [C and Perl](#c-and-perl)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
+* [D](#d)
 * [Dropbox](#dropbox)
+* [Elixir](#elixir)
+* [Erlang](#erlang)
 * [Go](#go)
 * [Groovy](#groovy)
 * [Haskell](#haskell)
@@ -28,6 +31,7 @@ Table of Contents
 * [Python](#python)
 * [Racket](#racket)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Shell](#shell)
@@ -44,6 +48,7 @@ Table of Contents
 
 ## Bash
 
+* [baker](https://github.com/taylorchu/baker/)
 * [bashblog](https://github.com/carlesfe/bashblog)
 * [NanoBlogger](http://nanoblogger.sourceforge.net/)
 * [Pagegen](http://pagegen.phnd.net/)
@@ -63,9 +68,11 @@ Table of Contents
 * [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
 * [Bryar](https://metacpan.org/pod/Bryar::Frontend::Static)
 * [Dapper](http://vanilladraft.com/dapper/)
+* [Expose](https://github.com/Jack000/Expose)
 * [HiD](https://metacpan.org/pod/HiD)
 * [ikiwiki](https://ikiwiki.info/)
 * [Papery](https://metacpan.org/pod/Papery)
+* [Qgoda](http://www.qgoda.net/)
 * [Quietly::Confident](http://search.cpan.org/dist/Quietly-Confident/qc.pod)
 * [StaticVolt](https://metacpan.org/pod/StaticVolt)
 * [Statocles](https://metacpan.org/pod/Statocles)
@@ -86,6 +93,10 @@ Table of Contents
 * [coleslaw](http://www.cliki.net/coleslaw)
 * [regenerate](https://gist.github.com/TeMPOraL/4190622)
 
+## D
+
+* [DSSG](https://github.com/kambrium/dssg)
+
 ## Dropbox
 
 * [900dpi](http://900dpi.com/)
@@ -103,6 +114,14 @@ Table of Contents
 * [Sitebox.io](http://www.sitebox.io/)
 * [Telegram](https://telegr.am/)
 * [Yoozon](https://yoozon.com/)
+
+## Elixir
+
+* [Obelisk](https://github.com/BennyHallett/obelisk)
+
+## Erlang
+
+* [LambdaPad](https://github.com/gar1t/lambdapad)
 
 ## Go
 
@@ -148,27 +167,35 @@ Table of Contents
 
 ## Node.js
 
+* [11ty](https://www.11ty.io)
 * [antwar](https://github.com/antwarjs/antwar)
 * [Apto](https://github.com/modparadigm/apto)
 * [Assemble](http://assemble.io)
 * [Automaton](http://indigounited.com/automaton/)
 * [BAM](https://npmjs.org/package/bam)
+* [Bi Sheng](https://github.com/benjycui/bisheng)
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Blode](https://github.com/stackoverflow/blode)
+* [Bloguizim](https://github.com/bloguizim/bloguizim)
 * [bread](https://github.com/pvorb/node-bread)
 * [Broccoli Taco](http://broccoli-taco.com/)
 * [Brunch](http://brunch.io/)
 * [Cabin](http://www.cabinjs.com/)
+* [CMS.js](https://github.com/cdmedia/cms.js)
 * [Codex](https://github.com/logicalparadox/codex)
 * [Conf-Boilerplate](https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
+* [Cuttlebelle](https://github.com/cuttlebelle/cuttlebelle)
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
+* [Easystatic](https://github.com/easystatic/easystatic)
 * [Enfield](https://github.com/fortes/enfield)
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
 * [Gabby](https://github.com/alexmingoia/gabby)
+* [Gatsby](https://github.com/gatsbyjs/gatsby)
 * [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)
 * [Genesis](http://forge.synthmedia.co.uk/genesis/)
 * [ghost-render](https://github.com/mixu/ghost-render)
+* [GloriaJS](https://gloriajs.com/)
 * [Go-Static!](https://github.com/colynb/generator-go-static)
 * [Grunt](http://gruntjs.com/)
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
@@ -187,43 +214,61 @@ Table of Contents
 * [Jott](https://github.com/jonsherrard/jott)
 * [Kel](https://github.com/koostudios/kel)
 * [Kerouac](https://github.com/jaredhanson/kerouac)
+* [Lego](https://github.com/astronomersiva/lego)
 * [Lineman](https://github.com/testdouble/lineman)
 * [Lingon](https://github.com/jpettersson/lingon)
 * [Lumbar](https://github.com/walmartlabs/lumbar)
+* [Maren](https://maren.io/)
 * [markdown-styles](https://github.com/mixu/markdown-styles)
 * [markx](https://github.com/jgallen23/markx)
+* [Martinet](https://github.com/iceroad/martinet)
 * [Metalsmith](http://www.metalsmith.io/)
 * [Mimosa](http://mimosajs.com/)
+* [modan](https://github.com/r7kamura/modan)
 * [Modjs](http://modulejs.github.io/modjs/)
+* [Next.js](https://github.com/zeit/next.js)
 * [Nirman](https://github.com/anupshinde/nirman)
 * [Nico](http://lab.lepture.com/nico/)
 * [node-blog](https://github.com/creationix/node-blog)
+* [node-buster](https://github.com/cassiobsilva/node-buster)
 * [node-jekyll](https://github.com/wangbus/node-jekyll)
 * [noflo-jekyll](https://github.com/the-grid/noflo-jekyll)
 * [Nog](https://github.com/c9/nog)
 * [pagen](https://github.com/jawerty/pagen)
 * [Petrify](https://github.com/caolan/petrify)
+* [Phenomic](https://phenomic.io/)
 * [Poet](http://jsantell.github.io/poet/)
 * [Pop](https://github.com/alexyoung/pop)
 * [Propeller](https://github.com/thegreatsunra/propeller)
 * [Punch](https://github.com/laktek/punch)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
+* [Quick Start Guide Template](https://github.com/tjvantoll/quick-start-template)
 * [Quill](https://npmjs.org/package/quill)
+* [React Static](https://github.com/nozzle/react-static)
 * [React Static Site](https://github.com/BradDenver/react-static-site)
+* [React Static Site Webpack plugin](https://github.com/pierresaux/react-static-site-webpack-plugin)
 * [React + Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
+* [Reptar](http://reptar.github.io/)
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
+* [Scully](https://github.com/scullyio/scully)
 * [Surge](https://surge.sh/)
+* [Schiumato](https://gitlab.com/ElenQ/schiumato)
 * [Scotch](https://github.com/techwraith/scotch)
+* [Simple](https://github.com/isnowfy/simple)
 * [Situs](https://github.com/fians/situs)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
+* [Staticman](https://staticman.net/)
+* [static site generator webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [Static Site Starter Kit](https://github.com/kriasoft/static-site-starter)
+* [statil](https://github.com/Mitranim/statil)
 * [Statix](https://github.com/ff0000/statix)
 * [SuSi](https://github.com/AVGP/susi)
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
 * [thumbsup](https://github.com/rprieto/thumbsup)
+* [VuePress](https://vuepress.vuejs.org/)
 * [volo](http://volojs.org/)
 * [wainwright](https://github.com/wprl/wainwright)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
@@ -233,6 +278,7 @@ Table of Contents
 * [Woods](https://github.com/studiomoniker/woods)
 * [yassg](https://npmjs.org/package/yassg)
 * [Yeoman](http://yeoman.io/)
+* [yohe](https://github.com/laoqiren/yohe)
 
 ## OCaml
 
@@ -244,9 +290,12 @@ Table of Contents
 * [Animal](https://github.com/billpatrianakos/animal-f)
 * [BloggerCMS](https://github.com/sarfraznawaz2005/BloggerCMS)
 * [Carew](http://carew.github.io/)
+* [Couscous](http://couscous.io/)
 * [Dropplets](https://github.com/Circa75/dropplets)
+* [Fansoro](http://fansoro.org/)
 * [Grav](http://getgrav.org/)
 * [Gumdrop](http://gumdropapp.com/)
+* [PHPoole](http://phpoole.org/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
 * [Purepress](https://github.com/megakote/purepress)
@@ -259,6 +308,7 @@ Table of Contents
 * [Spress](https://github.com/yosymfony/Spress)
 * [Stacey](https://github.com/kolber/stacey)
 * [Statamic](http://www.statamic.com/)
+* [Static](https://github.com/juy/static)
 * [Tempo](https://github.com/catnapgames/Tempo)
 * [Vaseman](http://about.asika.tw/vaseman/)
 * [Yellow](http://github.com/datenstrom/yellow)
@@ -294,6 +344,7 @@ Table of Contents
 * [Igor](https://github.com/aconbere/igor)
 * [Jinja](http://jinja.pocoo.org/)
 * [jinjet](https://github.com/jokull/jinjet)
+* [Lektor](https://www.getlektor.com/)
 * [Letterpress](https://github.com/an0/Letterpress)
 * [Lightning](https://github.com/borismus/lightning)
 * [lilac](https://lilac.readthedocs.org/en/latest/index.html)
@@ -381,6 +432,10 @@ Table of Contents
 * [zenweb](http://www.zenspider.com/projects/zenweb.html)
 * [{ :awestruct }](http://awestruct.org/)
 
+## Rust
+* [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)
+* [zola](https://github.com/getzola/zola)
+
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
 * [Scalate](https://github.com/scalate/scalate)
@@ -390,7 +445,9 @@ Table of Contents
 
 ## Shell
 
+* [Exposé](https://github.com/Jack000/Expose)
 * [fugitive](https://gitorious.org/fugitive)
+* [rawk](https://github.com/kisom/rawk)
 * [simple-static](https://github.com/wlangstroth/simple-static)
 * [sw](https://github.com/jroimartin/sw)
 * [Utterson](https://github.com/stef/utterson)
